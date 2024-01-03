@@ -1,0 +1,1 @@
+SELECT name,surname from netology.PERSONS WHERE city_of_living = 'MOSCOW'
